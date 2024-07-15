@@ -3,14 +3,11 @@
 # Hello, I'm Gerry!
 <a href="https://www.linkedin.com/in/gerry-scott-121773192"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Software Engineer, turned cyber professional, and this is my professional portfolio. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Having a background in Computer Science with a passion for cybersecurity, my goal is to improve as a subject matter expert through continual growth and training. This includes personal projects, certifications, and ad-hoc research such as Reverse Malware Engineering, and cyber deception. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -58,5 +55,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+### Cyber
+<div>
+-TBD
+</div>
+
+### Scripting/Coding
+<div>
+-TBD
+</div>
