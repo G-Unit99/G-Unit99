@@ -59,23 +59,16 @@ Having a background in Computer Science with a passion for cybersecurity, my goa
 ### Cyber
 <div>
 -SOC Automation Lab // In Progress //
-
 -Malware Lab // In Progress //
-
 -Honeypot // In Progress //
 </div>
 
 ### Scripting/Coding
 <div>
 -Password Generator // In Progress //
-
 -Password Manager // In Progress //
-
 -Port Scanner // In Progress //
-
 -Cryptography Cipher // In Progress //
-
 -WHOIS Lookup // In Progress //
-
 -Keylogger // In Progress //
 </div>
