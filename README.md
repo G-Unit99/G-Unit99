@@ -69,4 +69,4 @@ Having a background in Computer Science with a passion for cybersecurity, my goa
 -Port Scanner   
 -Cryptography Cipher   
 -WHOIS Lookup   
--Keyloggerh   
+-Keylogger   
