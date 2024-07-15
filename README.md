@@ -59,7 +59,9 @@ Having a background in Computer Science with a passion for cybersecurity, my goa
 ### Cyber
 
 -SOC Automation Lab
+
 -Honeypot
+
 -Malware Lab  
 ### Scripting/Coding
 
