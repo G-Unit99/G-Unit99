@@ -20,6 +20,8 @@ Having a background in Computer Science with a passion for cybersecurity, my goa
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Malware Reverse Engineering                | Malware Lab|
+| Designing Software Vulnerablilities  | Keylogger |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
