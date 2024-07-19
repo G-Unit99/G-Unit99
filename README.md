@@ -26,26 +26,30 @@ Having a background in Computer Science with a passion for cybersecurity, my goa
 
 ### Network
 <div>
+    <!--Wireshark-->
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <!--Suricata-->
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <!--Nmap-->
    <img src="https://img.shields.io/badge/-Nmap-FF0000?&style=for-the-badge&logo=Nmap&logoColor=white" />
 
 </div>
 
 ### Endpoint
 <div>
-
     <!--MDE-->
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <!--Trellix-->
-
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Trellix-4B275F?&style=for-the-badge&logo=Trellix&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
+    <!--MS Sentinel-->
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <!--Splunk-->
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <!--Elastic-->
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
